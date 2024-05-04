@@ -4,3 +4,5 @@
 #bu satır yeni eklenmiştir
 
 #bu satır tarayıcı üzerinden eklendi.
+
+#bu satır new-branch dalında eklendi.
